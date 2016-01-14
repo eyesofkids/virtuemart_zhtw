@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension version="2.5" type="file" client="site" method="upgrade">
+<name>VirtueMart 2 Chinese(Traditional) language pack</name>
+<version>2.0.20b v1</version>
+<creationDate>19 Apr 2012</creationDate>
+<author>Eddy Chang</author>
+<authoremail>eddy@joomla.com.tw</authoremail>
+<authorurl>http://www.joomla.org.tw</authorurl>
+<copyright>Copyright (C)2012 Taiwan Joomla Community. All rights reserved.</copyright>
+<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+<description>VirtueMart 2.0.20b Chinese(Traditional) language package.</description>
+<fileset>
+<files folder="admin" target="administrator/language/zh-TW">
+	<filename>zh-TW.com_virtuemart.ini</filename>
+    <filename>zh-TW.com_virtuemart.menu.ini</filename>
+    <filename>zh-TW.com_virtuemart.sys.ini</filename>
+    <filename>zh-TW.mod_virtuemart_cart.ini</filename>
+    <filename>zh-TW.mod_virtuemart_category.ini</filename>
+    <filename>zh-TW.mod_virtuemart_currencies.ini</filename>
+    <filename>zh-TW.mod_virtuemart_manufacturer.ini</filename>
+    <filename>zh-TW.mod_virtuemart_product.ini</filename>
+    <filename>zh-TW.mod_virtuemart_search.ini</filename>
+    <filename>zh-TW.plg_search_virtuemart.ini</filename>
+</files>
+<files folder="site" target="language/zh-TW">
+	<filename>zh-TW.com_virtuemart.ini</filename>
+    <filename>zh-TW.com_virtuemart.sef.ini</filename>
+    <filename>zh-TW.com_virtuemart.sys.ini</filename>
+    <filename>zh-TW.mod_virtuemart_cart.ini</filename>
+    <filename>zh-TW.mod_virtuemart_cart.sys.ini</filename>
+    <filename>zh-TW.mod_virtuemart_category.ini</filename>
+    <filename>zh-TW.mod_virtuemart_category.sys.ini</filename>
+    <filename>zh-TW.mod_virtuemart_currencies.ini</filename>
+    <filename>zh-TW.mod_virtuemart_currencies.sys.ini</filename>
+    <filename>zh-TW.mod_virtuemart_manufacturer.ini</filename>
+    <filename>zh-TW.mod_virtuemart_manufacturer.sys.ini</filename>
+    <filename>zh-TW.mod_virtuemart_product.ini</filename>
+    <filename>zh-TW.mod_virtuemart_product.sys.ini</filename>
+    <filename>zh-TW.mod_virtuemart_search.ini</filename>
+    <filename>zh-TW.mod_virtuemart_search.sys.ini</filename>
+</files>
+</fileset>
+</extension>
